@@ -1,0 +1,15 @@
+<h1>{{food.report.food.name}}</h1><input type="button" ng-click="addToFav()" value="Add To Favorites" class="button"/>
+
+<table width="50%" class="thumbnail2">
+<tr>
+<td width="50%"><b>Nutrient</b></td>
+<td width="30%"><b>Qty</b></td>
+<td width="20%"><b>Unit</b></td>
+</tr>
+  <tr ng-repeat="nutrient in food.report.food.nutrients">
+    <td>{{nutrient.name}}</td><td>{{nutrient.value}}</td><td>{{nutrient.unit}}</td>
+  </tr>
+</table>
+
+
+

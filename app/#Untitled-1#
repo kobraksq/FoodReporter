@@ -1,0 +1,1001 @@
+[ 04-01 09:57:12.340  3729: 5124 D/NtpTrustedTime ]
+currentTimeMillis() cache hit
+[ 04-01 09:57:12.560  5389: 5389 D/StatusBar.NetworkController ]
+Invisible Data Activity Icon
+[ 04-01 09:57:12.560  5389: 5389 D/StatusBar.NetworkController ]
+refreshViews connected={ wifi data } level=4 combinedSignalIconId=0x7f02056a/com.android.systemui:drawable/stat_sys_wifi_signal_4 mobileLabel=Verizon Wireless wifiLabel="pm1243-5ghz" emergencyOnly=false combinedLabel="pm1243-5ghz" mAirplaneMode=false mDataActivity=4 mPhoneSignalIconId=0x7f02069d/com.android.systemui:drawable/tw_stat_sys_5_level_signal_4_auto_rotate mQSPhoneSignalIconId=0x7f020115/com.android.systemui:drawable/ic_qs_signal_4 mDataDirectionIconId=0x0/(null) mDataSignalIconId=0x7f02069d/com.android.systemui:drawable/tw_stat_sys_5_level_signal_4_auto_rotate mDataTypeIconId=0x7f02032d/com.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte mQSDataTypeIconId=0x0/(null) mNoSimIconId=0x0/(null) mWifiIconId=0x7f02056a/com.android.systemui:drawable/stat_sys_wifi_signal_4 mQSWifiIconId=0x7f02012b/com.android.systemui:drawable/ic_qs_wifi_4 mWifiActivityIconId=0x7f020519/com.android.systemui:drawable/stat_sys_signal_no_inout mBluetoothTetherIconId=0x7f02053f/com.android.systemui:drawable/stat_sys_tether_bluetooth
+[ 04-01 09:57:12.560  5389: 5389 D/STATUSBAR-WifiTile ]
+onWifiSignalChanged enabled=true enabledDesc:"pm1243-5ghz"
+[ 04-01 09:57:12.560  5389: 5389 D/StatusBar.NetworkController ]
+refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+[ 04-01 09:57:12.560  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW
+[ 04-01 09:57:12.580  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW : mDataTypeDisabledIconIdcom.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte
+[ 04-01 09:57:12.580  5389: 5389 D/StatusBar.NetworkController ]
+refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+[ 04-01 09:57:12.580  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW
+[ 04-01 09:57:12.590  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW : mDataTypeDisabledIconIdcom.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte
+[ 04-01 09:57:12.590  5389: 5389 D/StatusBar.NetworkController ]
+refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+[ 04-01 09:57:12.590  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW
+[ 04-01 09:57:12.600  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW : mDataTypeDisabledIconIdcom.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte
+[ 04-01 09:57:12.600  5389: 5389 D/StatusBar.NetworkController ]
+refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+[ 04-01 09:57:12.600  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW
+[ 04-01 09:57:12.600  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW : mDataTypeDisabledIconIdcom.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte
+[ 04-01 09:57:13.070  3729: 5646 D/BatteryService ]
+!@BatteryListener : batteryPropertiesChanged!
+[ 04-01 09:57:13.070  3729: 5646 D/BatteryService ]
+level:100, scale:100, status:5, health:2, present:true, voltage: 4324, temperature: 259, technology: Li-ion, AC powered:false, USB powered:true, POGO powered:false, Wireless powered:false, icon:17303398, invalid charger:0
+[ 04-01 09:57:13.070  3729: 5646 D/BatteryService ]
+online:4, current avg:7, charge type:1, power sharing:false, high voltage charger:false, capacity:280000, current_now:68
+[ 04-01 09:57:13.070  3729: 3729 D/BatteryService ]
+Sending ACTION_BATTERY_CHANGED.
+[ 04-01 09:57:13.080  3729: 3729 I/MotionRecognitionService ]
+Plugged
+[ 04-01 09:57:13.080  3729: 3729 D/MotionRecognitionService ]
+cableConnection= 1
+[ 04-01 09:57:13.080  3729: 3729 D/MotionRecognitionService ]
+setPowerConnected | current backoffstate  = 0 , state =0
+[ 04-01 09:57:13.080  3729: 3729 D/MotionRecognitionService ]
+skip setTransmitPower.
+[ 04-01 09:57:13.080 27713:28004 I/ClearcutLoggerApiImpl ]
+disconnect managed GoogleApiClient
+[ 04-01 09:57:13.080  5389: 5389 D/KeyguardUpdateMonitor ]
+received broadcast android.intent.action.BATTERY_CHANGED
+[ 04-01 09:57:13.080  5389: 5389 I/PERF     ]
+received broadcast android.intent.action.BATTERY_CHANGED
+[ 04-01 09:57:13.080  5389: 5389 D/KeyguardUpdateMonitor ]
+handleBatteryUpdate
+[ 04-01 09:57:13.090  5724: 5724 V/EmergencyMode ]
+[EmergencyStateReceiver] onReceive : android.intent.action.BATTERY_CHANGED
+[ 04-01 09:57:13.090  5724: 5724 V/EmergencyMode ]
+[EmergencyStateReceiver] ACTION_BATTERY_CHANGED mBatteryLevelForLogging = 100
+[ 04-01 09:57:13.100  5389: 5389 D/QSTile.TorchLightTile ]
+ACTION_BATTERY_CHANGED - Level :: 100, Status :: 5
+[ 04-01 09:57:13.110  6296: 6296 D/CommonServiceConfiguration ]
+getStringValueSetting
+[ 04-01 09:57:13.110  5757: 5757 D/PhoneApp ]
+PhoneAppBroadcastReceiver onReceive android.intent.action.BATTERY_CHANGED
+[ 04-01 09:57:13.110  6296: 6296 D/BatteryMonitor ]
+new battery level: 100
+[ 04-01 09:57:13.120  5389: 5389 D/BatteryMeterView ]
+ACTION_BATTERY_CHANGED : level:100 status:5 health:2
+[ 04-01 09:57:13.120  5389: 5389 D/BatteryMeterView ]
+ACTION_BATTERY_CHANGED : level:100 status:5 health:2
+[ 04-01 09:57:13.120  5389: 5389 D/BatteryMeterView ]
+ACTION_BATTERY_CHANGED : level:100 status:5 health:2
+[ 04-01 09:57:13.140  5757: 5757 D/TelephonyExtension ]
+Not stopping low battery tone
+[ 04-01 09:57:14.440  3729: 7998 D/SSRM:n   ]
+SIOP:: AP = 360, PST = 368 (W:10), CP = 279, CUR = 7, LCD = 2
+[ 04-01 09:57:23.130  3729: 5881 D/BatteryService ]
+!@BatteryListener : batteryPropertiesChanged!
+[ 04-01 09:57:23.130  3729: 5881 D/BatteryService ]
+level:100, scale:100, status:5, health:2, present:true, voltage: 4324, temperature: 260, technology: Li-ion, AC powered:false, USB powered:true, POGO powered:false, Wireless powered:false, icon:17303398, invalid charger:0
+[ 04-01 09:57:23.130  3729: 5881 D/BatteryService ]
+online:4, current avg:30, charge type:1, power sharing:false, high voltage charger:false, capacity:280000, current_now:56
+[ 04-01 09:57:23.130  3729: 3729 D/BatteryService ]
+Sending ACTION_BATTERY_CHANGED.
+[ 04-01 09:57:23.130  3729: 3729 I/MotionRecognitionService ]
+Plugged
+[ 04-01 09:57:23.130  3729: 3729 D/MotionRecognitionService ]
+cableConnection= 1
+[ 04-01 09:57:23.130  3729: 3729 D/MotionRecognitionService ]
+setPowerConnected | current backoffstate  = 0 , state =0
+[ 04-01 09:57:23.130  3729: 3729 D/MotionRecognitionService ]
+skip setTransmitPower.
+[ 04-01 09:57:23.140  5389: 5389 D/KeyguardUpdateMonitor ]
+received broadcast android.intent.action.BATTERY_CHANGED
+[ 04-01 09:57:23.140  5389: 5389 I/PERF     ]
+received broadcast android.intent.action.BATTERY_CHANGED
+[ 04-01 09:57:23.140  5389: 5389 D/KeyguardUpdateMonitor ]
+handleBatteryUpdate
+[ 04-01 09:57:23.150  5724: 5724 V/EmergencyMode ]
+[EmergencyStateReceiver] onReceive : android.intent.action.BATTERY_CHANGED
+[ 04-01 09:57:23.150  5724: 5724 V/EmergencyMode ]
+[EmergencyStateReceiver] ACTION_BATTERY_CHANGED mBatteryLevelForLogging = 100
+[ 04-01 09:57:23.150  5389: 5389 D/QSTile.TorchLightTile ]
+ACTION_BATTERY_CHANGED - Level :: 100, Status :: 5
+[ 04-01 09:57:23.160  6296: 6296 D/CommonServiceConfiguration ]
+getStringValueSetting
+[ 04-01 09:57:23.170  5757: 5757 D/PhoneApp ]
+PhoneAppBroadcastReceiver onReceive android.intent.action.BATTERY_CHANGED
+[ 04-01 09:57:23.170  5389: 5389 D/BatteryMeterView ]
+ACTION_BATTERY_CHANGED : level:100 status:5 health:2
+[ 04-01 09:57:23.180  6296: 6296 D/BatteryMonitor ]
+new battery level: 100
+[ 04-01 09:57:23.180  5389: 5389 D/BatteryMeterView ]
+ACTION_BATTERY_CHANGED : level:100 status:5 health:2
+[ 04-01 09:57:23.180  5389: 5389 D/BatteryMeterView ]
+ACTION_BATTERY_CHANGED : level:100 status:5 health:2
+[ 04-01 09:57:23.190  5757: 5757 D/TelephonyExtension ]
+Not stopping low battery tone
+[ 04-01 09:57:24.460  3729: 7998 D/SSRM:n   ]
+SIOP:: AP = 360, PST = 369 (W:12), CP = 279, CUR = 30, LCD = 2
+[ 04-01 09:57:24.760 28022:28235 I/AmazonVideo.util ]
+ConfigManager.updateConfigFromServer: Getting new configuration from the server.
+[ 04-01 09:57:24.760 28022:28235 D/AmazonVideo.http ]
+Received Request@857da69[GET https://atv-ext.amazon.com/cdp/usage/GetServerConfig?firmware=fmw:22-app:6.0.0.200-6.0.61.7&deviceTypeID=A1MPSLFC7L5AFK&<REMOVED>&format=json&version=1] from thread ConfigTaskScheduler
+[ 04-01 09:57:24.770 28022:28464 W/AmazonVideo.http ]
+FetchFromServer: (1ms, #1) Caught exception com.amazon.avod.core.MissingAuthTokenException: Failed to retrieve oAuth token for Request@857da69
+[ 04-01 09:57:24.770 28022:28464 I/AmazonVideo.profiler ]
+Metric[name=usage/GetServerConfig-NetworkCall, type=[Failure, FailureAttempt-1], duration=2]
+[ 04-01 09:57:24.770 28022:28464 D/AbstractMetricsFactoryImpl ]
+Setting non-anonymous customer ID and session ID to null, and anonymous tag to true as the metric entry was not recorded in non-anonymous queue.
+[ 04-01 09:57:24.770 28022:28464 D/AbstractMetricsFactoryImpl ]
+Setting non-anonymous customer ID and session ID to null, and anonymous tag to true as the metric entry was not recorded in non-anonymous queue.
+[ 04-01 09:57:24.770 28022:28464 I/AmazonVideo.profiler ]
+Counter[usage/GetServerConfig-NetworkExceptions]
+[ 04-01 09:57:24.770 28022:28464 D/AbstractMetricsFactoryImpl ]
+Setting non-anonymous customer ID and session ID to null, and anonymous tag to true as the metric entry was not recorded in non-anonymous queue.
+[ 04-01 09:57:24.780 28022:28465 I/AmazonVideo.connectivity ]
+LimitedConnectivityDetector$PingThread.run: Running ping thread for: DetailedNetworkInfo[type=WIFI, state=FULL_ACCESS, extra=460057712]
+[ 04-01 09:57:24.800  3024: 3519 D/EnterpriseController ]
+mIsMarkChainAdded is 0 mIsBlockChainAdded is 0 netId is 0
+[ 04-01 09:57:24.800  3024: 3519 D/Netd     ]
+getNetworkForDns: using netid 1596 for uid 10002
+[ 04-01 09:57:24.810  3729: 3765 D/EPDG -- [NETMGMT] ]
+Interface lo limitName globalAlert
+[ 04-01 09:57:24.820  3729: 5123 D/NtpTrustedTime ]
+currentTimeMillis() cache hit
+[ 04-01 09:57:24.820  3729: 5123 V/NetworkStats ]
+performPollLocked(flags=0x1)
+[ 04-01 09:57:24.820  3729: 5123 D/NetworkStatsFactory ]
+UpdateStatsForKnox updated
+[ 04-01 09:57:24.820  3729: 5123 D/NetworkStatsFactory ]
+UpdateStatsForKnox main else ---
+[ 04-01 09:57:24.830  3729: 5123 V/NetworkStats ]
+performPollLocked() took 14ms
+[ 04-01 09:57:24.830  3729: 5123 D/NtpTrustedTime ]
+currentTimeMillis() cache hit
+[ 04-01 09:57:24.840  3729: 5124 D/NtpTrustedTime ]
+currentTimeMillis() cache hit
+[ 04-01 09:57:24.840  3729: 5124 D/NtpTrustedTime ]
+currentTimeMillis() cache hit
+[ 04-01 09:57:24.850  3729: 5124 D/NtpTrustedTime ]
+currentTimeMillis() cache hit
+[ 04-01 09:57:24.980 28022:28465 I/AmazonVideo.connectivity ]
+LimitedConnectivityDetector$PingThread.run: Ping was successful, stop pinging.
+[ 04-01 09:57:24.980 28022:28464 W/AmazonVideo.http ]
+FetchFromServer: (209ms, #2) Caught exception com.amazon.avod.core.MissingAuthTokenException: Failed to retrieve oAuth token for Request@857da69
+[ 04-01 09:57:24.980 28022:28464 I/AmazonVideo.profiler ]
+Metric[name=usage/GetServerConfig-NetworkCall, type=[Failure, FailureAttempt-2], duration=2]
+[ 04-01 09:57:24.980 28022:28464 D/AbstractMetricsFactoryImpl ]
+Setting non-anonymous customer ID and session ID to null, and anonymous tag to true as the metric entry was not recorded in non-anonymous queue.
+[ 04-01 09:57:24.980 28022:28464 D/AbstractMetricsFactoryImpl ]
+Setting non-anonymous customer ID and session ID to null, and anonymous tag to true as the metric entry was not recorded in non-anonymous queue.
+[ 04-01 09:57:24.980 28022:28464 I/AmazonVideo.profiler ]
+Counter[usage/GetServerConfig-NetworkExceptions]
+[ 04-01 09:57:24.990 28022:28464 D/AbstractMetricsFactoryImpl ]
+Setting non-anonymous customer ID and session ID to null, and anonymous tag to true as the metric entry was not recorded in non-anonymous queue.
+[ 04-01 09:57:24.990 28022:28467 I/AmazonVideo.connectivity ]
+LimitedConnectivityDetector$PingThread.run: Running ping thread for: DetailedNetworkInfo[type=WIFI, state=FULL_ACCESS, extra=460057712]
+[ 04-01 09:57:25.090 28022:28467 I/AmazonVideo.connectivity ]
+LimitedConnectivityDetector$PingThread.run: Ping was successful, stop pinging.
+[ 04-01 09:57:25.190 28022:28464 W/AmazonVideo.http ]
+FetchFromServer: (422ms, #3) Caught exception com.amazon.avod.core.MissingAuthTokenException: Failed to retrieve oAuth token for Request@857da69
+[ 04-01 09:57:25.190 28022:28464 I/AmazonVideo.profiler ]
+Metric[name=usage/GetServerConfig-NetworkCall, type=[Failure, FailureAttempt-3], duration=3]
+[ 04-01 09:57:25.190 28022:28464 D/AbstractMetricsFactoryImpl ]
+Setting non-anonymous customer ID and session ID to null, and anonymous tag to true as the metric entry was not recorded in non-anonymous queue.
+[ 04-01 09:57:25.200 28022:28464 D/AbstractMetricsFactoryImpl ]
+Setting non-anonymous customer ID and session ID to null, and anonymous tag to true as the metric entry was not recorded in non-anonymous queue.
+[ 04-01 09:57:25.200 28022:28464 I/AmazonVideo.profiler ]
+Counter[usage/GetServerConfig-NetworkExceptions]
+[ 04-01 09:57:25.200 28022:28464 D/AbstractMetricsFactoryImpl ]
+Setting non-anonymous customer ID and session ID to null, and anonymous tag to true as the metric entry was not recorded in non-anonymous queue.
+[ 04-01 09:57:25.200 28022:28464 W/AmazonVideo.http ]
+FetchFromServer: (433ms, #3) Aborting network retry due to com.amazon.bolthttp.policy.RetryLimitException: Retry limit (3, 30000ms) reached for Request@857da69[GET https://atv-ext.amazon.com/cdp/usage/GetServerConfig?firmware=fmw:22-app:6.0.0.200-6.0.61.7&deviceTypeID=A1MPSLFC7L5AFK&<REMOVED>&format=json&version=1]
+[ 04-01 09:57:25.200 28022:28468 I/AmazonVideo.connectivity ]
+LimitedConnectivityDetector$PingThread.run: Running ping thread for: DetailedNetworkInfo[type=WIFI, state=FULL_ACCESS, extra=460057712]
+[ 04-01 09:57:25.210 28022:28235 E/AmazonVideo.service ]
+EXCEPTION: Bolt exception thrown for Request@857da69[GET https://atv-ext.amazon.com/cdp/usage/GetServerConfig?firmware=fmw:22-app:6.0.0.200-6.0.61.7&deviceTypeID=A1MPSLFC7L5AFK&<REMOVED>&format=json&version=1]: BoltException[component=NETWORK, cause=com.amazon.bolthttp.policy.RetryLimitException: Retry limit (3, 30000ms) reached]
+[ 04-01 09:57:25.210 28022:28235 E/AmazonVideo.service ]
+ERROR: AbstractServiceClient.execute: Caller com.amazon.avod.service.BoltHttpCaller@21b9d58f completed. Error while sending request.
+[ 04-01 09:57:25.210 28022:28235 E/AmazonVideo.util ]
+EXCEPTION: TaskScheduler failed to run task. Retrying in 113 seconds: org.apache.http.HttpException: Network Exception
+[ 04-01 09:57:25.210 28022:28235 I/AmazonVideo.util ]
+ConfigTaskScheduler.schedule: Scheduling refresh after 113905 millis
+[ 04-01 09:57:25.300 28022:28468 I/AmazonVideo.connectivity ]
+LimitedConnectivityDetector$PingThread.run: Ping was successful, stop pinging.
+[ 04-01 09:57:25.590  5389: 5389 D/StatusBar.NetworkController ]
+Invisible Data Activity Icon
+[ 04-01 09:57:25.590  5389: 5389 D/StatusBar.NetworkController ]
+refreshViews connected={ wifi data } level=4 combinedSignalIconId=0x7f02056a/com.android.systemui:drawable/stat_sys_wifi_signal_4 mobileLabel=Verizon Wireless wifiLabel="pm1243-5ghz" emergencyOnly=false combinedLabel="pm1243-5ghz" mAirplaneMode=false mDataActivity=4 mPhoneSignalIconId=0x7f02069d/com.android.systemui:drawable/tw_stat_sys_5_level_signal_4_auto_rotate mQSPhoneSignalIconId=0x7f020115/com.android.systemui:drawable/ic_qs_signal_4 mDataDirectionIconId=0x0/(null) mDataSignalIconId=0x7f02069d/com.android.systemui:drawable/tw_stat_sys_5_level_signal_4_auto_rotate mDataTypeIconId=0x7f02032d/com.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte mQSDataTypeIconId=0x0/(null) mNoSimIconId=0x0/(null) mWifiIconId=0x7f02056a/com.android.systemui:drawable/stat_sys_wifi_signal_4 mQSWifiIconId=0x7f02012b/com.android.systemui:drawable/ic_qs_wifi_4 mWifiActivityIconId=0x7f020516/com.android.systemui:drawable/stat_sys_signal_inout mBluetoothTetherIconId=0x7f02053f/com.android.systemui:drawable/stat_sys_tether_bluetooth
+[ 04-01 09:57:25.590  5389: 5389 D/STATUSBAR-WifiTile ]
+onWifiSignalChanged enabled=true enabledDesc:"pm1243-5ghz"
+[ 04-01 09:57:25.590  5389: 5389 D/StatusBar.NetworkController ]
+refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+[ 04-01 09:57:25.590  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW
+[ 04-01 09:57:25.610  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW : mDataTypeDisabledIconIdcom.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte
+[ 04-01 09:57:25.610  5389: 5389 D/StatusBar.NetworkController ]
+refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+[ 04-01 09:57:25.610  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW
+[ 04-01 09:57:25.620  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW : mDataTypeDisabledIconIdcom.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte
+[ 04-01 09:57:25.620  5389: 5389 D/StatusBar.NetworkController ]
+refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+[ 04-01 09:57:25.620  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW
+[ 04-01 09:57:25.630  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW : mDataTypeDisabledIconIdcom.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte
+[ 04-01 09:57:25.630  5389: 5389 D/StatusBar.NetworkController ]
+refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+[ 04-01 09:57:25.630  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW
+[ 04-01 09:57:25.640  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW : mDataTypeDisabledIconIdcom.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte
+[ 04-01 09:57:26.600  5389: 5389 D/StatusBar.NetworkController ]
+Invisible Data Activity Icon
+[ 04-01 09:57:26.600  5389: 5389 D/StatusBar.NetworkController ]
+refreshViews connected={ wifi data } level=4 combinedSignalIconId=0x7f02056a/com.android.systemui:drawable/stat_sys_wifi_signal_4 mobileLabel=Verizon Wireless wifiLabel="pm1243-5ghz" emergencyOnly=false combinedLabel="pm1243-5ghz" mAirplaneMode=false mDataActivity=4 mPhoneSignalIconId=0x7f02069d/com.android.systemui:drawable/tw_stat_sys_5_level_signal_4_auto_rotate mQSPhoneSignalIconId=0x7f020115/com.android.systemui:drawable/ic_qs_signal_4 mDataDirectionIconId=0x0/(null) mDataSignalIconId=0x7f02069d/com.android.systemui:drawable/tw_stat_sys_5_level_signal_4_auto_rotate mDataTypeIconId=0x7f02032d/com.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte mQSDataTypeIconId=0x0/(null) mNoSimIconId=0x0/(null) mWifiIconId=0x7f02056a/com.android.systemui:drawable/stat_sys_wifi_signal_4 mQSWifiIconId=0x7f02012b/com.android.systemui:drawable/ic_qs_wifi_4 mWifiActivityIconId=0x7f020519/com.android.systemui:drawable/stat_sys_signal_no_inout mBluetoothTetherIconId=0x7f02053f/com.android.systemui:drawable/stat_sys_tether_bluetooth
+[ 04-01 09:57:26.600  5389: 5389 D/STATUSBAR-WifiTile ]
+onWifiSignalChanged enabled=true enabledDesc:"pm1243-5ghz"
+[ 04-01 09:57:26.600  5389: 5389 D/StatusBar.NetworkController ]
+refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+[ 04-01 09:57:26.600  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW
+[ 04-01 09:57:26.620  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW : mDataTypeDisabledIconIdcom.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte
+[ 04-01 09:57:26.620  5389: 5389 D/StatusBar.NetworkController ]
+refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+[ 04-01 09:57:26.620  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW
+[ 04-01 09:57:26.630  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW : mDataTypeDisabledIconIdcom.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte
+[ 04-01 09:57:26.630  5389: 5389 D/StatusBar.NetworkController ]
+refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+[ 04-01 09:57:26.630  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW
+[ 04-01 09:57:26.640  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW : mDataTypeDisabledIconIdcom.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte
+[ 04-01 09:57:26.640  5389: 5389 D/StatusBar.NetworkController ]
+refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+[ 04-01 09:57:26.640  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW
+[ 04-01 09:57:26.640  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW : mDataTypeDisabledIconIdcom.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte
+[ 04-01 09:57:29.600  3729: 5557 E/Watchdog ]
+!@Sync 80650 [04-01 09:57:29.608]
+[ 04-01 09:57:29.610  5389: 5389 D/StatusBar.NetworkController ]
+Invisible Data Activity Icon
+[ 04-01 09:57:29.610  5389: 5389 D/StatusBar.NetworkController ]
+refreshViews connected={ wifi data } level=4 combinedSignalIconId=0x7f02056a/com.android.systemui:drawable/stat_sys_wifi_signal_4 mobileLabel=Verizon Wireless wifiLabel="pm1243-5ghz" emergencyOnly=false combinedLabel="pm1243-5ghz" mAirplaneMode=false mDataActivity=4 mPhoneSignalIconId=0x7f02069d/com.android.systemui:drawable/tw_stat_sys_5_level_signal_4_auto_rotate mQSPhoneSignalIconId=0x7f020115/com.android.systemui:drawable/ic_qs_signal_4 mDataDirectionIconId=0x0/(null) mDataSignalIconId=0x7f02069d/com.android.systemui:drawable/tw_stat_sys_5_level_signal_4_auto_rotate mDataTypeIconId=0x7f02032d/com.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte mQSDataTypeIconId=0x0/(null) mNoSimIconId=0x0/(null) mWifiIconId=0x7f02056a/com.android.systemui:drawable/stat_sys_wifi_signal_4 mQSWifiIconId=0x7f02012b/com.android.systemui:drawable/ic_qs_wifi_4 mWifiActivityIconId=0x7f020516/com.android.systemui:drawable/stat_sys_signal_inout mBluetoothTetherIconId=0x7f02053f/com.android.systemui:drawable/stat_sys_tether_bluetooth
+[ 04-01 09:57:29.610  5389: 5389 D/STATUSBAR-WifiTile ]
+onWifiSignalChanged enabled=true enabledDesc:"pm1243-5ghz"
+[ 04-01 09:57:29.610  5389: 5389 D/StatusBar.NetworkController ]
+refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+[ 04-01 09:57:29.610  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW
+[ 04-01 09:57:29.620  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW : mDataTypeDisabledIconIdcom.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte
+[ 04-01 09:57:29.620  5389: 5389 D/StatusBar.NetworkController ]
+refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+[ 04-01 09:57:29.630  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW
+[ 04-01 09:57:29.640  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW : mDataTypeDisabledIconIdcom.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte
+[ 04-01 09:57:29.640  5389: 5389 D/StatusBar.NetworkController ]
+refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+[ 04-01 09:57:29.640  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW
+[ 04-01 09:57:29.650  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW : mDataTypeDisabledIconIdcom.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte
+[ 04-01 09:57:29.650  5389: 5389 D/StatusBar.NetworkController ]
+refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+[ 04-01 09:57:29.650  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW
+[ 04-01 09:57:29.650  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW : mDataTypeDisabledIconIdcom.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte
+[ 04-01 09:57:30.610  5389: 5389 D/StatusBar.NetworkController ]
+Invisible Data Activity Icon
+[ 04-01 09:57:30.610  5389: 5389 D/StatusBar.NetworkController ]
+refreshViews connected={ wifi data } level=4 combinedSignalIconId=0x7f02056a/com.android.systemui:drawable/stat_sys_wifi_signal_4 mobileLabel=Verizon Wireless wifiLabel="pm1243-5ghz" emergencyOnly=false combinedLabel="pm1243-5ghz" mAirplaneMode=false mDataActivity=4 mPhoneSignalIconId=0x7f02069d/com.android.systemui:drawable/tw_stat_sys_5_level_signal_4_auto_rotate mQSPhoneSignalIconId=0x7f020115/com.android.systemui:drawable/ic_qs_signal_4 mDataDirectionIconId=0x0/(null) mDataSignalIconId=0x7f02069d/com.android.systemui:drawable/tw_stat_sys_5_level_signal_4_auto_rotate mDataTypeIconId=0x7f02032d/com.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte mQSDataTypeIconId=0x0/(null) mNoSimIconId=0x0/(null) mWifiIconId=0x7f02056a/com.android.systemui:drawable/stat_sys_wifi_signal_4 mQSWifiIconId=0x7f02012b/com.android.systemui:drawable/ic_qs_wifi_4 mWifiActivityIconId=0x7f020519/com.android.systemui:drawable/stat_sys_signal_no_inout mBluetoothTetherIconId=0x7f02053f/com.android.systemui:drawable/stat_sys_tether_bluetooth
+[ 04-01 09:57:30.610  5389: 5389 D/STATUSBAR-WifiTile ]
+onWifiSignalChanged enabled=true enabledDesc:"pm1243-5ghz"
+[ 04-01 09:57:30.610  5389: 5389 D/StatusBar.NetworkController ]
+refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+[ 04-01 09:57:30.610  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW
+[ 04-01 09:57:30.630  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW : mDataTypeDisabledIconIdcom.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte
+[ 04-01 09:57:30.630  5389: 5389 D/StatusBar.NetworkController ]
+refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+[ 04-01 09:57:30.630  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW
+[ 04-01 09:57:30.640  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW : mDataTypeDisabledIconIdcom.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte
+[ 04-01 09:57:30.640  5389: 5389 D/StatusBar.NetworkController ]
+refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+[ 04-01 09:57:30.640  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW
+[ 04-01 09:57:30.650  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW : mDataTypeDisabledIconIdcom.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte
+[ 04-01 09:57:30.650  5389: 5389 D/StatusBar.NetworkController ]
+refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+[ 04-01 09:57:30.650  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW
+[ 04-01 09:57:30.650  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW : mDataTypeDisabledIconIdcom.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte
+[ 04-01 09:57:33.190  3729: 5879 D/BatteryService ]
+!@BatteryListener : batteryPropertiesChanged!
+[ 04-01 09:57:33.190  3729: 5879 D/BatteryService ]
+level:100, scale:100, status:5, health:2, present:true, voltage: 4323, temperature: 260, technology: Li-ion, AC powered:false, USB powered:true, POGO powered:false, Wireless powered:false, icon:17303398, invalid charger:0
+[ 04-01 09:57:33.190  3729: 5879 D/BatteryService ]
+online:4, current avg:30, charge type:1, power sharing:false, high voltage charger:false, capacity:280000, current_now:-23
+[ 04-01 09:57:33.190  3729: 3729 D/BatteryService ]
+Sending ACTION_BATTERY_CHANGED.
+[ 04-01 09:57:33.200  3729: 3729 I/MotionRecognitionService ]
+Plugged
+[ 04-01 09:57:33.200  3729: 3729 D/MotionRecognitionService ]
+cableConnection= 1
+[ 04-01 09:57:33.200  3729: 3729 D/MotionRecognitionService ]
+setPowerConnected | current backoffstate  = 0 , state =0
+[ 04-01 09:57:33.200  3729: 3729 D/MotionRecognitionService ]
+skip setTransmitPower.
+[ 04-01 09:57:33.210  5389: 5389 D/KeyguardUpdateMonitor ]
+received broadcast android.intent.action.BATTERY_CHANGED
+[ 04-01 09:57:33.210  5389: 5389 I/PERF     ]
+received broadcast android.intent.action.BATTERY_CHANGED
+[ 04-01 09:57:33.210  5389: 5389 D/KeyguardUpdateMonitor ]
+handleBatteryUpdate
+[ 04-01 09:57:33.220  5724: 5724 V/EmergencyMode ]
+[EmergencyStateReceiver] onReceive : android.intent.action.BATTERY_CHANGED
+[ 04-01 09:57:33.220  5724: 5724 V/EmergencyMode ]
+[EmergencyStateReceiver] ACTION_BATTERY_CHANGED mBatteryLevelForLogging = 100
+[ 04-01 09:57:33.220  5389: 5389 D/QSTile.TorchLightTile ]
+ACTION_BATTERY_CHANGED - Level :: 100, Status :: 5
+[ 04-01 09:57:33.240  5389: 5389 D/BatteryMeterView ]
+ACTION_BATTERY_CHANGED : level:100 status:5 health:2
+[ 04-01 09:57:33.240  5389: 5389 D/BatteryMeterView ]
+ACTION_BATTERY_CHANGED : level:100 status:5 health:2
+[ 04-01 09:57:33.240  5389: 5389 D/BatteryMeterView ]
+ACTION_BATTERY_CHANGED : level:100 status:5 health:2
+[ 04-01 09:57:33.240  6296: 6296 D/CommonServiceConfiguration ]
+getStringValueSetting
+[ 04-01 09:57:33.240  5757: 5757 D/PhoneApp ]
+PhoneAppBroadcastReceiver onReceive android.intent.action.BATTERY_CHANGED
+[ 04-01 09:57:33.250  6296: 6296 D/BatteryMonitor ]
+new battery level: 100
+[ 04-01 09:57:33.270  5757: 5757 D/TelephonyExtension ]
+Not stopping low battery tone
+[ 04-01 09:57:34.480  3729: 7998 D/SSRM:n   ]
+SIOP:: AP = 360, PST = 367 (W:12), CP = 278, CUR = 30, LCD = 2
+[ 04-01 09:57:35.910  3729: 4223 V/AlarmManager ]
+waitForAlarm result :4
+[ 04-01 09:57:35.920  3729: 4223 D/ActivityManager ]
+retrieveServiceLocked(): component = null; callingUser = 0; userId(target) = 0
+[ 04-01 09:57:35.920  3729: 4223 D/ActivityManager ]
+caller:null, r.packageName :com.naver.linewebtoon
+[ 04-01 09:57:36.630  5389: 5389 D/StatusBar.NetworkController ]
+Invisible Data Activity Icon
+[ 04-01 09:57:36.630  5389: 5389 D/StatusBar.NetworkController ]
+refreshViews connected={ wifi data } level=4 combinedSignalIconId=0x7f02056a/com.android.systemui:drawable/stat_sys_wifi_signal_4 mobileLabel=Verizon Wireless wifiLabel="pm1243-5ghz" emergencyOnly=false combinedLabel="pm1243-5ghz" mAirplaneMode=false mDataActivity=4 mPhoneSignalIconId=0x7f02069d/com.android.systemui:drawable/tw_stat_sys_5_level_signal_4_auto_rotate mQSPhoneSignalIconId=0x7f020115/com.android.systemui:drawable/ic_qs_signal_4 mDataDirectionIconId=0x0/(null) mDataSignalIconId=0x7f02069d/com.android.systemui:drawable/tw_stat_sys_5_level_signal_4_auto_rotate mDataTypeIconId=0x7f02032d/com.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte mQSDataTypeIconId=0x0/(null) mNoSimIconId=0x0/(null) mWifiIconId=0x7f02056a/com.android.systemui:drawable/stat_sys_wifi_signal_4 mQSWifiIconId=0x7f02012b/com.android.systemui:drawable/ic_qs_wifi_4 mWifiActivityIconId=0x7f020516/com.android.systemui:drawable/stat_sys_signal_inout mBluetoothTetherIconId=0x7f02053f/com.android.systemui:drawable/stat_sys_tether_bluetooth
+[ 04-01 09:57:36.630  5389: 5389 D/STATUSBAR-WifiTile ]
+onWifiSignalChanged enabled=true enabledDesc:"pm1243-5ghz"
+[ 04-01 09:57:36.630  5389: 5389 D/StatusBar.NetworkController ]
+refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+[ 04-01 09:57:36.630  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW
+[ 04-01 09:57:36.650  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW : mDataTypeDisabledIconIdcom.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte
+[ 04-01 09:57:36.650  5389: 5389 D/StatusBar.NetworkController ]
+refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+[ 04-01 09:57:36.650  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW
+[ 04-01 09:57:36.660  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW : mDataTypeDisabledIconIdcom.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte
+[ 04-01 09:57:36.660  5389: 5389 D/StatusBar.NetworkController ]
+refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+[ 04-01 09:57:36.660  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW
+[ 04-01 09:57:36.670  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW : mDataTypeDisabledIconIdcom.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte
+[ 04-01 09:57:36.670  5389: 5389 D/StatusBar.NetworkController ]
+refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+[ 04-01 09:57:36.670  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW
+[ 04-01 09:57:36.670  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW : mDataTypeDisabledIconIdcom.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte
+[ 04-01 09:57:37.490  3729: 3765 D/EPDG -- [NETMGMT] ]
+Interface lo limitName globalAlert
+[ 04-01 09:57:37.490  3729: 5123 V/NetworkStats ]
+performPollLocked(flags=0x1)
+[ 04-01 09:57:37.490  3729: 5123 D/NtpTrustedTime ]
+currentTimeMillis() cache hit
+[ 04-01 09:57:37.500  3729: 5123 D/NetworkStatsFactory ]
+UpdateStatsForKnox updated
+[ 04-01 09:57:37.500  3729: 5123 D/NetworkStatsFactory ]
+UpdateStatsForKnox main else ---
+[ 04-01 09:57:37.520  3729: 5123 V/NetworkStats ]
+performPollLocked() took 24ms
+[ 04-01 09:57:37.520  3729: 5123 D/NtpTrustedTime ]
+currentTimeMillis() cache hit
+[ 04-01 09:57:37.530  3729: 5124 D/NtpTrustedTime ]
+currentTimeMillis() cache hit
+[ 04-01 09:57:37.530  3729: 5124 D/NtpTrustedTime ]
+currentTimeMillis() cache hit
+[ 04-01 09:57:37.540  3729: 5124 D/NtpTrustedTime ]
+currentTimeMillis() cache hit
+[ 04-01 09:57:37.640  5389: 5389 D/StatusBar.NetworkController ]
+Invisible Data Activity Icon
+[ 04-01 09:57:37.640  5389: 5389 D/StatusBar.NetworkController ]
+refreshViews connected={ wifi data } level=4 combinedSignalIconId=0x7f02056a/com.android.systemui:drawable/stat_sys_wifi_signal_4 mobileLabel=Verizon Wireless wifiLabel="pm1243-5ghz" emergencyOnly=false combinedLabel="pm1243-5ghz" mAirplaneMode=false mDataActivity=4 mPhoneSignalIconId=0x7f02069d/com.android.systemui:drawable/tw_stat_sys_5_level_signal_4_auto_rotate mQSPhoneSignalIconId=0x7f020115/com.android.systemui:drawable/ic_qs_signal_4 mDataDirectionIconId=0x0/(null) mDataSignalIconId=0x7f02069d/com.android.systemui:drawable/tw_stat_sys_5_level_signal_4_auto_rotate mDataTypeIconId=0x7f02032d/com.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte mQSDataTypeIconId=0x0/(null) mNoSimIconId=0x0/(null) mWifiIconId=0x7f02056a/com.android.systemui:drawable/stat_sys_wifi_signal_4 mQSWifiIconId=0x7f02012b/com.android.systemui:drawable/ic_qs_wifi_4 mWifiActivityIconId=0x7f020519/com.android.systemui:drawable/stat_sys_signal_no_inout mBluetoothTetherIconId=0x7f02053f/com.android.systemui:drawable/stat_sys_tether_bluetooth
+[ 04-01 09:57:37.640  5389: 5389 D/STATUSBAR-WifiTile ]
+onWifiSignalChanged enabled=true enabledDesc:"pm1243-5ghz"
+[ 04-01 09:57:37.640  5389: 5389 D/StatusBar.NetworkController ]
+refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+[ 04-01 09:57:37.640  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW
+[ 04-01 09:57:37.660  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW : mDataTypeDisabledIconIdcom.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte
+[ 04-01 09:57:37.660  5389: 5389 D/StatusBar.NetworkController ]
+refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+[ 04-01 09:57:37.660  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW
+[ 04-01 09:57:37.660  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW : mDataTypeDisabledIconIdcom.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte
+[ 04-01 09:57:37.660  5389: 5389 D/StatusBar.NetworkController ]
+refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+[ 04-01 09:57:37.660  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW
+[ 04-01 09:57:37.670  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW : mDataTypeDisabledIconIdcom.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte
+[ 04-01 09:57:37.670  5389: 5389 D/StatusBar.NetworkController ]
+refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+[ 04-01 09:57:37.670  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW
+[ 04-01 09:57:37.690  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW : mDataTypeDisabledIconIdcom.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte
+[ 04-01 09:57:43.240  3729: 4187 D/BatteryService ]
+!@BatteryListener : batteryPropertiesChanged!
+[ 04-01 09:57:43.240  3729: 4187 D/BatteryService ]
+level:100, scale:100, status:5, health:2, present:true, voltage: 4332, temperature: 260, technology: Li-ion, AC powered:false, USB powered:true, POGO powered:false, Wireless powered:false, icon:17303398, invalid charger:0
+[ 04-01 09:57:43.240  3729: 4187 D/BatteryService ]
+online:4, current avg:37, charge type:1, power sharing:false, high voltage charger:false, capacity:280000, current_now:92
+[ 04-01 09:57:43.240  3729: 3729 D/BatteryService ]
+Sending ACTION_BATTERY_CHANGED.
+[ 04-01 09:57:43.250  3729: 3729 I/MotionRecognitionService ]
+Plugged
+[ 04-01 09:57:43.250  3729: 3729 D/MotionRecognitionService ]
+cableConnection= 1
+[ 04-01 09:57:43.250  3729: 3729 D/MotionRecognitionService ]
+setPowerConnected | current backoffstate  = 0 , state =0
+[ 04-01 09:57:43.250  3729: 3729 D/MotionRecognitionService ]
+skip setTransmitPower.
+[ 04-01 09:57:43.250  5389: 5389 D/KeyguardUpdateMonitor ]
+received broadcast android.intent.action.BATTERY_CHANGED
+[ 04-01 09:57:43.250  5389: 5389 I/PERF     ]
+received broadcast android.intent.action.BATTERY_CHANGED
+[ 04-01 09:57:43.250  5389: 5389 D/KeyguardUpdateMonitor ]
+handleBatteryUpdate
+[ 04-01 09:57:43.270  5724: 5724 V/EmergencyMode ]
+[EmergencyStateReceiver] onReceive : android.intent.action.BATTERY_CHANGED
+[ 04-01 09:57:43.270  5724: 5724 V/EmergencyMode ]
+[EmergencyStateReceiver] ACTION_BATTERY_CHANGED mBatteryLevelForLogging = 100
+[ 04-01 09:57:43.270  5389: 5389 D/QSTile.TorchLightTile ]
+ACTION_BATTERY_CHANGED - Level :: 100, Status :: 5
+[ 04-01 09:57:43.280  6296: 6296 D/CommonServiceConfiguration ]
+getStringValueSetting
+[ 04-01 09:57:43.290  5389: 5389 D/BatteryMeterView ]
+ACTION_BATTERY_CHANGED : level:100 status:5 health:2
+[ 04-01 09:57:43.290  6296: 6296 D/BatteryMonitor ]
+new battery level: 100
+[ 04-01 09:57:43.290  5757: 5757 D/PhoneApp ]
+PhoneAppBroadcastReceiver onReceive android.intent.action.BATTERY_CHANGED
+[ 04-01 09:57:43.290  5389: 5389 D/BatteryMeterView ]
+ACTION_BATTERY_CHANGED : level:100 status:5 health:2
+[ 04-01 09:57:43.290  5389: 5389 D/BatteryMeterView ]
+ACTION_BATTERY_CHANGED : level:100 status:5 health:2
+[ 04-01 09:57:43.310  5757: 5757 D/TelephonyExtension ]
+Not stopping low battery tone
+[ 04-01 09:57:44.510  3729: 7998 D/SSRM:n   ]
+SIOP:: AP = 350, PST = 365 (W:12), CP = 278, CUR = 37, LCD = 2
+[ 04-01 09:57:45.700 28153:28449 W/AmznMusic_MTSEventReporter ]
+Received an error while attempting to upload metrics
+java.lang.IllegalStateException: Customer account does not exist.
+at com.amazon.music.metrics.mts.android.MTSReportClientActionsV3Uploader.canUpload(MTSReportClientActionsV3Uploader.java:95)
+at com.amazon.music.metrics.mts.android.MTSReportClientActionsV3Uploader.uploadEvents(MTSReportClientActionsV3Uploader.java:83)
+at com.amazon.music.metrics.mts.MTSEventReporter.reportEvents(MTSEventReporter.java:48)
+at com.amazon.music.metrics.mts.MTSEventHandler.handleUpload(MTSEventHandler.java:146)
+at com.amazon.music.metrics.mts.MTSEventHandler.handleEvent(MTSEventHandler.java:136)
+at com.amazon.music.metrics.mts.MTSEventHandler.handleEvent(MTSEventHandler.java:27)
+at com.amazon.music.metrics.service.worker.EventHandlerWorker.run(EventHandlerWorker.java:53)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+at java.lang.Thread.run(Thread.java:818)
+[ 04-01 09:57:45.710 28153:28474 E/AmznMusic_MarketPlaceManager ]
+null obfuscatedId not defined in the environment file.
+[ 04-01 09:57:45.710 28153:28474 E/AmznMusic_MarketPlaceManager ]
+null obfuscatedId not defined in the environment file.
+[ 04-01 09:57:45.770  3024: 3519 D/EnterpriseController ]
+mIsMarkChainAdded is 0 mIsBlockChainAdded is 0 netId is 0
+[ 04-01 09:57:45.770  3024: 3519 D/Netd     ]
+getNetworkForDns: using netid 1596 for uid 10096
+[ 04-01 09:57:45.800 28153:28279 I/qtaguid  ]
+Tagging socket 43 with tag 383c8b4e00000000{943491918,0} uid -1, pid: 28153, getuid(): 10096
+[ 04-01 09:57:46.660  5389: 5389 D/StatusBar.NetworkController ]
+Invisible Data Activity Icon
+[ 04-01 09:57:46.660  5389: 5389 D/StatusBar.NetworkController ]
+refreshViews connected={ wifi data } level=4 combinedSignalIconId=0x7f02056a/com.android.systemui:drawable/stat_sys_wifi_signal_4 mobileLabel=Verizon Wireless wifiLabel="pm1243-5ghz" emergencyOnly=false combinedLabel="pm1243-5ghz" mAirplaneMode=false mDataActivity=4 mPhoneSignalIconId=0x7f02069d/com.android.systemui:drawable/tw_stat_sys_5_level_signal_4_auto_rotate mQSPhoneSignalIconId=0x7f020115/com.android.systemui:drawable/ic_qs_signal_4 mDataDirectionIconId=0x0/(null) mDataSignalIconId=0x7f02069d/com.android.systemui:drawable/tw_stat_sys_5_level_signal_4_auto_rotate mDataTypeIconId=0x7f02032d/com.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte mQSDataTypeIconId=0x0/(null) mNoSimIconId=0x0/(null) mWifiIconId=0x7f02056a/com.android.systemui:drawable/stat_sys_wifi_signal_4 mQSWifiIconId=0x7f02012b/com.android.systemui:drawable/ic_qs_wifi_4 mWifiActivityIconId=0x7f020516/com.android.systemui:drawable/stat_sys_signal_inout mBluetoothTetherIconId=0x7f02053f/com.android.systemui:drawable/stat_sys_tether_bluetooth
+[ 04-01 09:57:46.660  5389: 5389 D/STATUSBAR-WifiTile ]
+onWifiSignalChanged enabled=true enabledDesc:"pm1243-5ghz"
+[ 04-01 09:57:46.660  5389: 5389 D/StatusBar.NetworkController ]
+refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+[ 04-01 09:57:46.660  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW
+[ 04-01 09:57:46.670 28153:28279 I/qtaguid  ]
+Untagging socket 43
+[ 04-01 09:57:46.670  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW : mDataTypeDisabledIconIdcom.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte
+[ 04-01 09:57:46.670  5389: 5389 D/StatusBar.NetworkController ]
+refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+[ 04-01 09:57:46.670  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW
+[ 04-01 09:57:46.690  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW : mDataTypeDisabledIconIdcom.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte
+[ 04-01 09:57:46.690  5389: 5389 D/StatusBar.NetworkController ]
+refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+[ 04-01 09:57:46.690  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW
+[ 04-01 09:57:46.690  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW : mDataTypeDisabledIconIdcom.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte
+[ 04-01 09:57:46.690  5389: 5389 D/StatusBar.NetworkController ]
+refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+[ 04-01 09:57:46.700  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW
+[ 04-01 09:57:46.700 28153:28474 E/AmznMusic_MTSReportEventV3ErrorReporter ]
+Unable to report error to cirrus
+com.android.volley.ParseError: org.codehaus.jackson.JsonParseException: Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')
+at [Source: [B@2510f27e; line: 18, column: 4]
+at com.amazon.hermes.CoralCall.parseNetworkResponse(CoralCall.java:220)
+at com.android.volley.NetworkDispatcher.run(NetworkDispatcher.java:123)
+Caused by: org.codehaus.jackson.JsonParseException: Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')
+at [Source: [B@2510f27e; line: 18, column: 4]
+at org.codehaus.jackson.JsonParser._constructError(JsonParser.java:1433)
+at org.codehaus.jackson.impl.JsonParserMinimalBase._reportError(JsonParserMinimalBase.java:521)
+at org.codehaus.jackson.impl.JsonParserMinimalBase._reportUnexpectedChar(JsonParserMinimalBase.java:442)
+at org.codehaus.jackson.impl.Utf8StreamParser._handleUnexpectedValue(Utf8StreamParser.java:2090)
+at org.codehaus.jackson.impl.Utf8StreamParser._nextTokenNotInObject(Utf8StreamParser.java:606)
+at org.codehaus.jackson.impl.Utf8StreamParser.nextToken(Utf8StreamParser.java:492)
+at org.codehaus.jackson.map.ObjectMapper._initForReading(ObjectMapper.java:2770)
+at org.codehaus.jackson.map.ObjectMapper._readMapAndClose(ObjectMapper.java:2718)
+at org.codehaus.jackson.map.ObjectMapper.readValue(ObjectMapper.java:1935)
+at com.amazon.hermes.CoralCall.parseNetworkResponse(CoralCall.java:214)
+... 1 more
+[ 04-01 09:57:46.700  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW : mDataTypeDisabledIconIdcom.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte
+[ 04-01 09:57:47.660  5389: 5389 D/StatusBar.NetworkController ]
+Invisible Data Activity Icon
+[ 04-01 09:57:47.660  5389: 5389 D/StatusBar.NetworkController ]
+refreshViews connected={ wifi data } level=4 combinedSignalIconId=0x7f02056a/com.android.systemui:drawable/stat_sys_wifi_signal_4 mobileLabel=Verizon Wireless wifiLabel="pm1243-5ghz" emergencyOnly=false combinedLabel="pm1243-5ghz" mAirplaneMode=false mDataActivity=4 mPhoneSignalIconId=0x7f02069d/com.android.systemui:drawable/tw_stat_sys_5_level_signal_4_auto_rotate mQSPhoneSignalIconId=0x7f020115/com.android.systemui:drawable/ic_qs_signal_4 mDataDirectionIconId=0x0/(null) mDataSignalIconId=0x7f02069d/com.android.systemui:drawable/tw_stat_sys_5_level_signal_4_auto_rotate mDataTypeIconId=0x7f02032d/com.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte mQSDataTypeIconId=0x0/(null) mNoSimIconId=0x0/(null) mWifiIconId=0x7f02056a/com.android.systemui:drawable/stat_sys_wifi_signal_4 mQSWifiIconId=0x7f02012b/com.android.systemui:drawable/ic_qs_wifi_4 mWifiActivityIconId=0x7f020519/com.android.systemui:drawable/stat_sys_signal_no_inout mBluetoothTetherIconId=0x7f02053f/com.android.systemui:drawable/stat_sys_tether_bluetooth
+[ 04-01 09:57:47.660  5389: 5389 D/STATUSBAR-WifiTile ]
+onWifiSignalChanged enabled=true enabledDesc:"pm1243-5ghz"
+[ 04-01 09:57:47.660  5389: 5389 D/StatusBar.NetworkController ]
+refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+[ 04-01 09:57:47.660  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW
+[ 04-01 09:57:47.680  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW : mDataTypeDisabledIconIdcom.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte
+[ 04-01 09:57:47.680  5389: 5389 D/StatusBar.NetworkController ]
+refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+[ 04-01 09:57:47.680  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW
+[ 04-01 09:57:47.690  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW : mDataTypeDisabledIconIdcom.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte
+[ 04-01 09:57:47.690  5389: 5389 D/StatusBar.NetworkController ]
+refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+[ 04-01 09:57:47.690  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW
+[ 04-01 09:57:47.710  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW : mDataTypeDisabledIconIdcom.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte
+[ 04-01 09:57:47.710  5389: 5389 D/StatusBar.NetworkController ]
+refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+[ 04-01 09:57:47.710  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW
+[ 04-01 09:57:47.710  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW : mDataTypeDisabledIconIdcom.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte
+[ 04-01 09:57:48.670  5389: 5389 D/StatusBar.NetworkController ]
+Invisible Data Activity Icon
+[ 04-01 09:57:48.670  5389: 5389 D/StatusBar.NetworkController ]
+refreshViews connected={ wifi data } level=4 combinedSignalIconId=0x7f02056a/com.android.systemui:drawable/stat_sys_wifi_signal_4 mobileLabel=Verizon Wireless wifiLabel="pm1243-5ghz" emergencyOnly=false combinedLabel="pm1243-5ghz" mAirplaneMode=false mDataActivity=4 mPhoneSignalIconId=0x7f02069d/com.android.systemui:drawable/tw_stat_sys_5_level_signal_4_auto_rotate mQSPhoneSignalIconId=0x7f020115/com.android.systemui:drawable/ic_qs_signal_4 mDataDirectionIconId=0x0/(null) mDataSignalIconId=0x7f02069d/com.android.systemui:drawable/tw_stat_sys_5_level_signal_4_auto_rotate mDataTypeIconId=0x7f02032d/com.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte mQSDataTypeIconId=0x0/(null) mNoSimIconId=0x0/(null) mWifiIconId=0x7f02056a/com.android.systemui:drawable/stat_sys_wifi_signal_4 mQSWifiIconId=0x7f02012b/com.android.systemui:drawable/ic_qs_wifi_4 mWifiActivityIconId=0x7f020516/com.android.systemui:drawable/stat_sys_signal_inout mBluetoothTetherIconId=0x7f02053f/com.android.systemui:drawable/stat_sys_tether_bluetooth
+[ 04-01 09:57:48.670  5389: 5389 D/STATUSBAR-WifiTile ]
+onWifiSignalChanged enabled=true enabledDesc:"pm1243-5ghz"
+[ 04-01 09:57:48.670  5389: 5389 D/StatusBar.NetworkController ]
+refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+[ 04-01 09:57:48.670  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW
+[ 04-01 09:57:48.680  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW : mDataTypeDisabledIconIdcom.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte
+[ 04-01 09:57:48.680  5389: 5389 D/StatusBar.NetworkController ]
+refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+[ 04-01 09:57:48.680  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW
+[ 04-01 09:57:48.690  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW : mDataTypeDisabledIconIdcom.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte
+[ 04-01 09:57:48.690  5389: 5389 D/StatusBar.NetworkController ]
+refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+[ 04-01 09:57:48.690  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW
+[ 04-01 09:57:48.700  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW : mDataTypeDisabledIconIdcom.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte
+[ 04-01 09:57:48.700  5389: 5389 D/StatusBar.NetworkController ]
+refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+[ 04-01 09:57:48.700  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW
+[ 04-01 09:57:48.710  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW : mDataTypeDisabledIconIdcom.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte
+[ 04-01 09:57:49.310  3024: 3520 D/MDnsDS   ]
+MDnsSdListener::Monitor poll timed out
+[ 04-01 09:57:49.310  3024: 3520 D/MDnsDS   ]
+Going to poll with pollCount 1
+[ 04-01 09:57:49.720  3729: 3765 D/EPDG -- [NETMGMT] ]
+Interface lo limitName globalAlert
+[ 04-01 09:57:49.720  3729: 5123 V/NetworkStats ]
+performPollLocked(flags=0x1)
+[ 04-01 09:57:49.720  3729: 5123 D/NtpTrustedTime ]
+currentTimeMillis() cache hit
+[ 04-01 09:57:49.730  3729: 5123 D/NetworkStatsFactory ]
+UpdateStatsForKnox updated
+[ 04-01 09:57:49.730  3729: 5123 D/NetworkStatsFactory ]
+UpdateStatsForKnox main else ---
+[ 04-01 09:57:49.740  3729: 5123 V/NetworkStats ]
+performPollLocked() took 24ms
+[ 04-01 09:57:49.740  3729: 5123 D/NtpTrustedTime ]
+currentTimeMillis() cache hit
+[ 04-01 09:57:49.760  3729: 5124 D/NtpTrustedTime ]
+currentTimeMillis() cache hit
+[ 04-01 09:57:49.760  3729: 5124 D/NtpTrustedTime ]
+currentTimeMillis() cache hit
+[ 04-01 09:57:49.770  3729: 5124 D/NtpTrustedTime ]
+currentTimeMillis() cache hit
+[ 04-01 09:57:50.670  5389: 5389 D/StatusBar.NetworkController ]
+Invisible Data Activity Icon
+[ 04-01 09:57:50.670  5389: 5389 D/StatusBar.NetworkController ]
+refreshViews connected={ wifi data } level=4 combinedSignalIconId=0x7f02056a/com.android.systemui:drawable/stat_sys_wifi_signal_4 mobileLabel=Verizon Wireless wifiLabel="pm1243-5ghz" emergencyOnly=false combinedLabel="pm1243-5ghz" mAirplaneMode=false mDataActivity=4 mPhoneSignalIconId=0x7f02069d/com.android.systemui:drawable/tw_stat_sys_5_level_signal_4_auto_rotate mQSPhoneSignalIconId=0x7f020115/com.android.systemui:drawable/ic_qs_signal_4 mDataDirectionIconId=0x0/(null) mDataSignalIconId=0x7f02069d/com.android.systemui:drawable/tw_stat_sys_5_level_signal_4_auto_rotate mDataTypeIconId=0x7f02032d/com.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte mQSDataTypeIconId=0x0/(null) mNoSimIconId=0x0/(null) mWifiIconId=0x7f02056a/com.android.systemui:drawable/stat_sys_wifi_signal_4 mQSWifiIconId=0x7f02012b/com.android.systemui:drawable/ic_qs_wifi_4 mWifiActivityIconId=0x7f020519/com.android.systemui:drawable/stat_sys_signal_no_inout mBluetoothTetherIconId=0x7f02053f/com.android.systemui:drawable/stat_sys_tether_bluetooth
+[ 04-01 09:57:50.670  5389: 5389 D/STATUSBAR-WifiTile ]
+onWifiSignalChanged enabled=true enabledDesc:"pm1243-5ghz"
+[ 04-01 09:57:50.670  5389: 5389 D/StatusBar.NetworkController ]
+refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+[ 04-01 09:57:50.670  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW
+[ 04-01 09:57:50.690  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW : mDataTypeDisabledIconIdcom.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte
+[ 04-01 09:57:50.690  5389: 5389 D/StatusBar.NetworkController ]
+refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+[ 04-01 09:57:50.690  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW
+[ 04-01 09:57:50.700  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW : mDataTypeDisabledIconIdcom.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte
+[ 04-01 09:57:50.700  5389: 5389 D/StatusBar.NetworkController ]
+refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+[ 04-01 09:57:50.700  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW
+[ 04-01 09:57:50.710  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW : mDataTypeDisabledIconIdcom.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte
+[ 04-01 09:57:50.710  5389: 5389 D/StatusBar.NetworkController ]
+refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+[ 04-01 09:57:50.710  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW
+[ 04-01 09:57:50.720  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW : mDataTypeDisabledIconIdcom.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte
+[ 04-01 09:57:53.310  3729: 5615 D/BatteryService ]
+!@BatteryListener : batteryPropertiesChanged!
+[ 04-01 09:57:53.310  3729: 5615 D/BatteryService ]
+level:100, scale:100, status:5, health:2, present:true, voltage: 4325, temperature: 259, technology: Li-ion, AC powered:false, USB powered:true, POGO powered:false, Wireless powered:false, icon:17303398, invalid charger:0
+[ 04-01 09:57:53.310  3729: 5615 D/BatteryService ]
+online:4, current avg:27, charge type:1, power sharing:false, high voltage charger:false, capacity:280000, current_now:63
+[ 04-01 09:57:53.310  3729: 3729 D/BatteryService ]
+Sending ACTION_BATTERY_CHANGED.
+[ 04-01 09:57:53.320  3729: 3729 I/MotionRecognitionService ]
+Plugged
+[ 04-01 09:57:53.320  3729: 3729 D/MotionRecognitionService ]
+cableConnection= 1
+[ 04-01 09:57:53.320  3729: 3729 D/MotionRecognitionService ]
+setPowerConnected | current backoffstate  = 0 , state =0
+[ 04-01 09:57:53.320  3729: 3729 D/MotionRecognitionService ]
+skip setTransmitPower.
+[ 04-01 09:57:53.320  5389: 5389 D/KeyguardUpdateMonitor ]
+received broadcast android.intent.action.BATTERY_CHANGED
+[ 04-01 09:57:53.320  5389: 5389 I/PERF     ]
+received broadcast android.intent.action.BATTERY_CHANGED
+[ 04-01 09:57:53.320  5389: 5389 D/KeyguardUpdateMonitor ]
+handleBatteryUpdate
+[ 04-01 09:57:53.330  5724: 5724 V/EmergencyMode ]
+[EmergencyStateReceiver] onReceive : android.intent.action.BATTERY_CHANGED
+[ 04-01 09:57:53.330  5724: 5724 V/EmergencyMode ]
+[EmergencyStateReceiver] ACTION_BATTERY_CHANGED mBatteryLevelForLogging = 100
+[ 04-01 09:57:53.340  5389: 5389 D/QSTile.TorchLightTile ]
+ACTION_BATTERY_CHANGED - Level :: 100, Status :: 5
+[ 04-01 09:57:53.340  6296: 6296 D/CommonServiceConfiguration ]
+getStringValueSetting
+[ 04-01 09:57:53.340  5389: 5389 D/BatteryMeterView ]
+ACTION_BATTERY_CHANGED : level:100 status:5 health:2
+[ 04-01 09:57:53.350  5757: 5757 D/PhoneApp ]
+PhoneAppBroadcastReceiver onReceive android.intent.action.BATTERY_CHANGED
+[ 04-01 09:57:53.350  5389: 5389 D/BatteryMeterView ]
+ACTION_BATTERY_CHANGED : level:100 status:5 health:2
+[ 04-01 09:57:53.350  5389: 5389 D/BatteryMeterView ]
+ACTION_BATTERY_CHANGED : level:100 status:5 health:2
+[ 04-01 09:57:53.360  6296: 6296 D/BatteryMonitor ]
+new battery level: 100
+[ 04-01 09:57:53.370  5757: 5757 D/TelephonyExtension ]
+Not stopping low battery tone
+[ 04-01 09:57:54.530  3729: 7998 D/SSRM:n   ]
+SIOP:: AP = 350, PST = 365 (W:12), CP = 278, CUR = 27, LCD = 2
+[ 04-01 09:57:54.680  5389: 5389 D/StatusBar.NetworkController ]
+Invisible Data Activity Icon
+[ 04-01 09:57:54.680  5389: 5389 D/StatusBar.NetworkController ]
+refreshViews connected={ wifi data } level=4 combinedSignalIconId=0x7f02056a/com.android.systemui:drawable/stat_sys_wifi_signal_4 mobileLabel=Verizon Wireless wifiLabel="pm1243-5ghz" emergencyOnly=false combinedLabel="pm1243-5ghz" mAirplaneMode=false mDataActivity=4 mPhoneSignalIconId=0x7f02069d/com.android.systemui:drawable/tw_stat_sys_5_level_signal_4_auto_rotate mQSPhoneSignalIconId=0x7f020115/com.android.systemui:drawable/ic_qs_signal_4 mDataDirectionIconId=0x0/(null) mDataSignalIconId=0x7f02069d/com.android.systemui:drawable/tw_stat_sys_5_level_signal_4_auto_rotate mDataTypeIconId=0x7f02032d/com.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte mQSDataTypeIconId=0x0/(null) mNoSimIconId=0x0/(null) mWifiIconId=0x7f02056a/com.android.systemui:drawable/stat_sys_wifi_signal_4 mQSWifiIconId=0x7f02012b/com.android.systemui:drawable/ic_qs_wifi_4 mWifiActivityIconId=0x7f020516/com.android.systemui:drawable/stat_sys_signal_inout mBluetoothTetherIconId=0x7f02053f/com.android.systemui:drawable/stat_sys_tether_bluetooth
+[ 04-01 09:57:54.680  5389: 5389 D/STATUSBAR-WifiTile ]
+onWifiSignalChanged enabled=true enabledDesc:"pm1243-5ghz"
+[ 04-01 09:57:54.680  5389: 5389 D/StatusBar.NetworkController ]
+refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+[ 04-01 09:57:54.680  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW
+[ 04-01 09:57:54.700  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW : mDataTypeDisabledIconIdcom.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte
+[ 04-01 09:57:54.700  5389: 5389 D/StatusBar.NetworkController ]
+refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+[ 04-01 09:57:54.700  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW
+[ 04-01 09:57:54.710  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW : mDataTypeDisabledIconIdcom.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte
+[ 04-01 09:57:54.710  5389: 5389 D/StatusBar.NetworkController ]
+refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+[ 04-01 09:57:54.710  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW
+[ 04-01 09:57:54.730  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW : mDataTypeDisabledIconIdcom.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte
+[ 04-01 09:57:54.730  5389: 5389 D/StatusBar.NetworkController ]
+refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+[ 04-01 09:57:54.730  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW
+[ 04-01 09:57:54.730  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW : mDataTypeDisabledIconIdcom.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte
+[ 04-01 09:57:55.060  3729: 4223 V/AlarmManager ]
+waitForAlarm result :4
+[ 04-01 09:57:55.070  3729: 3755 D/ActivityManager ]
+startProcessLocked calleePkgName: com.instagram.android, hostingType: broadcast-3
+[ 04-01 09:57:55.070  3729: 3755 E/ActivityManager ]
+checkUser: useridlist=null, currentuser=0
+[ 04-01 09:57:55.070  3729: 3755 E/ActivityManager ]
+checkUser: useridlist=null, currentuser=0
+[ 04-01 09:57:55.070  3729: 3755 E/ActivityManager ]
+checkUser: useridlist=null, currentuser=0
+[ 04-01 09:57:55.070  3729: 3755 E/ActivityManager ]
+checkUser: useridlist=null, currentuser=0
+[ 04-01 09:57:55.100 28481:28481 E/Zygote   ]
+MountEmulatedStorage()
+[ 04-01 09:57:55.100 28481:28481 E/Zygote   ]
+v2
+[ 04-01 09:57:55.100 28481:28481 I/libpersona ]
+KNOX_SDCARD checking this for 10137
+[ 04-01 09:57:55.100 28481:28481 I/libpersona ]
+KNOX_SDCARD not a persona
+[ 04-01 09:57:55.110 28481:28481 I/SELinux  ]
+Function: selinux_compare_spd_ram , priority [2] , priority version is VE=SEPF_SM-G925V_5.1.1_0039
+[ 04-01 09:57:55.110 28481:28481 E/Zygote   ]
+accessInfo : 0
+[ 04-01 09:57:55.110 28481:28481 E/SELinux  ]
+[DEBUG] get_category: variable seinfo: default sensitivity: NULL, cateogry: NULL
+[ 04-01 09:57:55.110  3729: 3755 I/ActivityManager ]
+Start proc 28481:com.instagram.android/u0a137 for broadcast-3 com.instagram.android/com.instagram.common.analytics.AnalyticsUploadAlarmReceiver
+[ 04-01 09:57:55.140 28481:28481 D/TimaKeyStoreProvider ]
+TimaSignature is unavailable
+[ 04-01 09:57:55.140 28481:28481 D/ActivityThread ]
+Added TimaKeyStore provider
+[ 04-01 09:57:55.150  3729: 5881 V/BroadcastQueue ]
+[background] Process cur broadcast BroadcastRecord{1bbdf7d6 u0 action_batch_upload} DELIVERED for app ProcessRecord{36e9ea57 28481:com.instagram.android/u0a137}
+[ 04-01 09:57:55.170  3729: 4187 I/InjectionManagerService -AppFeature ]
+getCoreFeaturePkgList :[]
+[ 04-01 09:57:55.180 28481:28481 I/InjectionManager ]
+Inside getClassLibPath + mLibMap{0=, 1=}
+[ 04-01 09:57:55.190 28481:28481 W/ResourcesManager ]
+Asset path '/system/framework/com.google.android.maps.jar' does not exist or contains no resources.
+[ 04-01 09:57:55.190 28481:28481 I/InjectionManager ]
+Inside getClassLibPath caller
+[ 04-01 09:57:55.300 28481:28481 D/a        ]
+ACRA is enabled for com.instagram.android, intializing...
+[ 04-01 09:57:55.370  3729: 7212 W/ActivityManager ]
+getRunningAppProcesses: caller 10137 does not hold REAL_GET_TASKS; limiting output
+[ 04-01 09:57:55.420 28481:28481 V/fb-UnpackingSoSource ]
+locked dso store /data/data/com.instagram.android/lib-main
+[ 04-01 09:57:55.420 28481:28481 I/fb-UnpackingSoSource ]
+dso store is up-to-date: /data/data/com.instagram.android/lib-main
+[ 04-01 09:57:55.420 28481:28481 V/fb-UnpackingSoSource ]
+releasing dso store lock for /data/data/com.instagram.android/lib-main
+[ 04-01 09:57:55.550 28481:28481 I/IgDiscardableRuntime ]
+JNI_OnLoad
+[ 04-01 09:57:55.580 28481:28481 D/InjectionManager ]
+InjectionManager
+[ 04-01 09:57:55.580 28481:28481 D/InjectionManager ]
+fillFeatureStoreMap com.instagram.android
+[ 04-01 09:57:55.580 28481:28481 I/InjectionManager ]
+Constructor com.instagram.android, Feature store :{}
+[ 04-01 09:57:55.580 28481:28481 I/InjectionManager ]
+featureStore :{}
+[ 04-01 09:57:55.590  3729: 5615 I/ActivityManager ]
+Killing 27052:com.LogiaGroup.LogiaDeck/u0a21 (adj 15): empty #31
+[ 04-01 09:57:55.600 28481:28481 W/ColdStartPerformanceTracer ]
+.                   TOTAL   THREAD
+____0 00.000 Start    ...     ...   ColdStartPerformanceTracer
+__197 00.197 Done __197 ms __131 ms ColdStartPerformanceTracer
+[ 04-01 09:57:55.610 28481:28499 D/SecWifiDisplayUtil ]
+Metadata value : SecSettings2
+[ 04-01 09:57:55.630 28481:28499 I/UrlRequestFactory ]
+Using network stack: Cronet/49.0.2596.2@e45bad16
+[ 04-01 09:57:55.660 28481:28481 D/ConnectivityManager ]
+CallingUid : 10137, CallingPid : 28481
+[ 04-01 09:57:55.660  3729: 4187 D/ConnectivityService ]
+listenForNetwork for NetworkRequest [ id=8078, legacyType=-1, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VPN] ]
+[ 04-01 09:57:55.660  3729: 5128 D/ConnectivityService ]
+handleRegisterNetworkRequest checking NetworkAgentInfo [MOBILE (LTE) - 1454]
+[ 04-01 09:57:55.660  3729: 5128 D/ConnectivityService ]
+handleRegisterNetworkRequest checking NetworkAgentInfo [WIFI_P2P () - 501]
+[ 04-01 09:57:55.660  3729: 5128 D/ConnectivityService ]
+handleRegisterNetworkRequest checking NetworkAgentInfo [WIFI () - 1596]
+[ 04-01 09:57:55.660  3729: 5128 D/ConnectivityService ]
+apparently satisfied.  currentScore=60
+[ 04-01 09:57:55.670 28481:28503 D/ConnectivityManager.CallbackHandler ]
+CM callback handler got msg 524290
+[ 04-01 09:57:55.680  3729: 5644 D/ActivityManager ]
+The following uid has registered to recieve broadcast for proxy related updates 10137
+[ 04-01 09:57:55.680  3729: 5644 W/ContextImpl ]
+Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1766 com.android.server.am.ActivityManagerService.requestKnoxVpnToSendProxyBroadcast:31159 com.android.server.am.ActivityManagerService.registerReceiver:21670 android.app.ActivityManagerNative.onTransact:402 com.android.server.am.ActivityManagerService.onTransact:4027
+[ 04-01 09:57:55.680  5389: 5389 D/StatusBar.NetworkController ]
+Invisible Data Activity Icon
+[ 04-01 09:57:55.690  5389: 5389 D/StatusBar.NetworkController ]
+refreshViews connected={ wifi data } level=4 combinedSignalIconId=0x7f02056a/com.android.systemui:drawable/stat_sys_wifi_signal_4 mobileLabel=Verizon Wireless wifiLabel="pm1243-5ghz" emergencyOnly=false combinedLabel="pm1243-5ghz" mAirplaneMode=false mDataActivity=4 mPhoneSignalIconId=0x7f02069d/com.android.systemui:drawable/tw_stat_sys_5_level_signal_4_auto_rotate mQSPhoneSignalIconId=0x7f020115/com.android.systemui:drawable/ic_qs_signal_4 mDataDirectionIconId=0x0/(null) mDataSignalIconId=0x7f02069d/com.android.systemui:drawable/tw_stat_sys_5_level_signal_4_auto_rotate mDataTypeIconId=0x7f02032d/com.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte mQSDataTypeIconId=0x0/(null) mNoSimIconId=0x0/(null) mWifiIconId=0x7f02056a/com.android.systemui:drawable/stat_sys_wifi_signal_4 mQSWifiIconId=0x7f02012b/com.android.systemui:drawable/ic_qs_wifi_4 mWifiActivityIconId=0x7f020514/com.android.systemui:drawable/stat_sys_signal_in mBluetoothTetherIconId=0x7f02053f/com.android.systemui:drawable/stat_sys_tether_bluetooth
+[ 04-01 09:57:55.690  5389: 5389 D/STATUSBAR-WifiTile ]
+onWifiSignalChanged enabled=true enabledDesc:"pm1243-5ghz"
+[ 04-01 09:57:55.690  5389: 5389 D/StatusBar.NetworkController ]
+refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+[ 04-01 09:57:55.690  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW
+[ 04-01 09:57:55.690  3024: 3519 D/EnterpriseController ]
+mIsMarkChainAdded is 0 mIsBlockChainAdded is 0 netId is 0
+[ 04-01 09:57:55.690  3024: 3519 D/Netd     ]
+getNetworkForDns: using netid 1596 for uid 10137
+[ 04-01 09:57:55.700  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW : mDataTypeDisabledIconIdcom.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte
+[ 04-01 09:57:55.700  5389: 5389 D/StatusBar.NetworkController ]
+refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+[ 04-01 09:57:55.700  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW
+[ 04-01 09:57:55.700  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW : mDataTypeDisabledIconIdcom.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte
+[ 04-01 09:57:55.700  5389: 5389 D/StatusBar.NetworkController ]
+refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+[ 04-01 09:57:55.700  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW
+[ 04-01 09:57:55.710  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW : mDataTypeDisabledIconIdcom.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte
+[ 04-01 09:57:55.710  5389: 5389 D/StatusBar.NetworkController ]
+refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+[ 04-01 09:57:55.710  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW
+[ 04-01 09:57:55.720  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW : mDataTypeDisabledIconIdcom.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte
+[ 04-01 09:57:56.520  5389: 5389 D/StatusBar.NetworkController ]
+onSignalStrengthsChanged signalStrength=SignalStrength: 99 99 -54 -40 -120 -1 -1 26 -83 -8 48 -1 2147483647 0x4050 gsm|lte level=4
+[ 04-01 09:57:56.520  5389: 5389 D/StatusBar.NetworkController ]
+updateTelephonySignalStrength: hasService=true ss=SignalStrength: 99 99 -54 -40 -120 -1 -1 26 -83 -8 48 -1 2147483647 0x4050 gsm|lte
+[ 04-01 09:57:56.520  5389: 5389 D/StatusBar.NetworkController ]
+updateTelephonySignalStrength: iconLevel=4
+[ 04-01 09:57:56.530  5389: 5389 D/StatusBar.NetworkController ]
+updateTelephonySignalStrength, No signal level. mPhoneSignalIconId = com.android.systemui:drawable/tw_stat_sys_5_level_signal_4_auto_rotate mDataSignalIconId = com.android.systemui:drawable/tw_stat_sys_5_level_signal_4_auto_rotate mQSPhoneSignalIconId = com.android.systemui:drawable/ic_qs_signal_4 mContentDescriptionPhoneSignal = Phone four bars.
+[ 04-01 09:57:56.530  5389: 5389 D/StatusBar.NetworkController ]
+Invisible Data Activity Icon
+[ 04-01 09:57:56.530  5389: 5389 D/StatusBar.NetworkController ]
+refreshViews connected={ wifi data } level=4 combinedSignalIconId=0x7f02056a/com.android.systemui:drawable/stat_sys_wifi_signal_4 mobileLabel=Verizon Wireless wifiLabel="pm1243-5ghz" emergencyOnly=false combinedLabel="pm1243-5ghz" mAirplaneMode=false mDataActivity=4 mPhoneSignalIconId=0x7f02069d/com.android.systemui:drawable/tw_stat_sys_5_level_signal_4_auto_rotate mQSPhoneSignalIconId=0x7f020115/com.android.systemui:drawable/ic_qs_signal_4 mDataDirectionIconId=0x0/(null) mDataSignalIconId=0x7f02069d/com.android.systemui:drawable/tw_stat_sys_5_level_signal_4_auto_rotate mDataTypeIconId=0x7f02032d/com.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte mQSDataTypeIconId=0x0/(null) mNoSimIconId=0x0/(null) mWifiIconId=0x7f02056a/com.android.systemui:drawable/stat_sys_wifi_signal_4 mQSWifiIconId=0x7f02012b/com.android.systemui:drawable/ic_qs_wifi_4 mWifiActivityIconId=0x7f020514/com.android.systemui:drawable/stat_sys_signal_in mBluetoothTetherIconId=0x7f02053f/com.android.systemui:drawable/stat_sys_tether_bluetooth
+[ 04-01 09:57:56.530  5389: 5389 D/STATUSBAR-WifiTile ]
+onWifiSignalChanged enabled=true enabledDesc:"pm1243-5ghz"
+[ 04-01 09:57:56.530  5389: 5389 D/StatusBar.NetworkController ]
+refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+[ 04-01 09:57:56.530  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW
+[ 04-01 09:57:56.530  3729: 5132 D/EPDG -- [SMARTWIFI] ]
+onSignalStrengthsChanged: Received signal strength change, phone type is: 2
+[ 04-01 09:57:56.530  3729: 6940 D/EPDG -- [SMARTWIFI] ]
+lastLteRSRP is -83currentLteRSRP is -83
+[ 04-01 09:57:56.530  3729: 6940 D/EPDG -- [SMARTWIFI] ]
+lastCdmaDb is -4currentCdmaDb is -4
+[ 04-01 09:57:56.530  3729: 6940 V/EPDG -- [SMARTWIFI] ]
+New entry : (SignalStrength: 99 99 -54 -40 -120 -1 -1 26 -83 -8 48 -1 2147483647 0x4050 gsm|lte : 0 )
+[ 04-01 09:57:56.530  3729: 6940 V/EPDG -- [SMARTWIFI] ]
+Radio entry added
+[ 04-01 09:57:56.540  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW : mDataTypeDisabledIconIdcom.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte
+[ 04-01 09:57:56.540  5389: 5389 D/StatusBar.NetworkController ]
+refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+[ 04-01 09:57:56.540  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW
+[ 04-01 09:57:56.540  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW : mDataTypeDisabledIconIdcom.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte
+[ 04-01 09:57:56.540  5389: 5389 D/StatusBar.NetworkController ]
+refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+[ 04-01 09:57:56.540  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW
+[ 04-01 09:57:56.550  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW : mDataTypeDisabledIconIdcom.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte
+[ 04-01 09:57:56.550  5389: 5389 D/StatusBar.NetworkController ]
+refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+[ 04-01 09:57:56.550  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW
+[ 04-01 09:57:56.550  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW : mDataTypeDisabledIconIdcom.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte
+[ 04-01 09:57:56.690  5389: 5389 D/StatusBar.NetworkController ]
+Invisible Data Activity Icon
+[ 04-01 09:57:56.690  5389: 5389 D/StatusBar.NetworkController ]
+refreshViews connected={ wifi data } level=4 combinedSignalIconId=0x7f02056a/com.android.systemui:drawable/stat_sys_wifi_signal_4 mobileLabel=Verizon Wireless wifiLabel="pm1243-5ghz" emergencyOnly=false combinedLabel="pm1243-5ghz" mAirplaneMode=false mDataActivity=4 mPhoneSignalIconId=0x7f02069d/com.android.systemui:drawable/tw_stat_sys_5_level_signal_4_auto_rotate mQSPhoneSignalIconId=0x7f020115/com.android.systemui:drawable/ic_qs_signal_4 mDataDirectionIconId=0x0/(null) mDataSignalIconId=0x7f02069d/com.android.systemui:drawable/tw_stat_sys_5_level_signal_4_auto_rotate mDataTypeIconId=0x7f02032d/com.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte mQSDataTypeIconId=0x0/(null) mNoSimIconId=0x0/(null) mWifiIconId=0x7f02056a/com.android.systemui:drawable/stat_sys_wifi_signal_4 mQSWifiIconId=0x7f02012b/com.android.systemui:drawable/ic_qs_wifi_4 mWifiActivityIconId=0x7f020516/com.android.systemui:drawable/stat_sys_signal_inout mBluetoothTetherIconId=0x7f02053f/com.android.systemui:drawable/stat_sys_tether_bluetooth
+[ 04-01 09:57:56.690  5389: 5389 D/STATUSBAR-WifiTile ]
+onWifiSignalChanged enabled=true enabledDesc:"pm1243-5ghz"
+[ 04-01 09:57:56.690  5389: 5389 D/StatusBar.NetworkController ]
+refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+[ 04-01 09:57:56.690  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW
+[ 04-01 09:57:56.700  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW : mDataTypeDisabledIconIdcom.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte
+[ 04-01 09:57:56.700  5389: 5389 D/StatusBar.NetworkController ]
+refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+[ 04-01 09:57:56.700  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW
+[ 04-01 09:57:56.700  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW : mDataTypeDisabledIconIdcom.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte
+[ 04-01 09:57:56.700  5389: 5389 D/StatusBar.NetworkController ]
+refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+[ 04-01 09:57:56.700  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW
+[ 04-01 09:57:56.710  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW : mDataTypeDisabledIconIdcom.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte
+[ 04-01 09:57:56.710  5389: 5389 D/StatusBar.NetworkController ]
+refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+[ 04-01 09:57:56.710  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW
+[ 04-01 09:57:56.710  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW : mDataTypeDisabledIconIdcom.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte
+[ 04-01 09:57:57.690  5389: 5389 D/StatusBar.NetworkController ]
+Invisible Data Activity Icon
+[ 04-01 09:57:57.690  5389: 5389 D/StatusBar.NetworkController ]
+refreshViews connected={ wifi data } level=4 combinedSignalIconId=0x7f02056a/com.android.systemui:drawable/stat_sys_wifi_signal_4 mobileLabel=Verizon Wireless wifiLabel="pm1243-5ghz" emergencyOnly=false combinedLabel="pm1243-5ghz" mAirplaneMode=false mDataActivity=4 mPhoneSignalIconId=0x7f02069d/com.android.systemui:drawable/tw_stat_sys_5_level_signal_4_auto_rotate mQSPhoneSignalIconId=0x7f020115/com.android.systemui:drawable/ic_qs_signal_4 mDataDirectionIconId=0x0/(null) mDataSignalIconId=0x7f02069d/com.android.systemui:drawable/tw_stat_sys_5_level_signal_4_auto_rotate mDataTypeIconId=0x7f02032d/com.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte mQSDataTypeIconId=0x0/(null) mNoSimIconId=0x0/(null) mWifiIconId=0x7f02056a/com.android.systemui:drawable/stat_sys_wifi_signal_4 mQSWifiIconId=0x7f02012b/com.android.systemui:drawable/ic_qs_wifi_4 mWifiActivityIconId=0x7f020519/com.android.systemui:drawable/stat_sys_signal_no_inout mBluetoothTetherIconId=0x7f02053f/com.android.systemui:drawable/stat_sys_tether_bluetooth
+[ 04-01 09:57:57.690  5389: 5389 D/STATUSBAR-WifiTile ]
+onWifiSignalChanged enabled=true enabledDesc:"pm1243-5ghz"
+[ 04-01 09:57:57.690  5389: 5389 D/StatusBar.NetworkController ]
+refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+[ 04-01 09:57:57.690  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW
+[ 04-01 09:57:57.710  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW : mDataTypeDisabledIconIdcom.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte
+[ 04-01 09:57:57.710  5389: 5389 D/StatusBar.NetworkController ]
+refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+[ 04-01 09:57:57.710  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW
+[ 04-01 09:57:57.720  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW : mDataTypeDisabledIconIdcom.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte
+[ 04-01 09:57:57.720  5389: 5389 D/StatusBar.NetworkController ]
+refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+[ 04-01 09:57:57.720  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW
+[ 04-01 09:57:57.730  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW : mDataTypeDisabledIconIdcom.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte
+[ 04-01 09:57:57.730  5389: 5389 D/StatusBar.NetworkController ]
+refreshNwBoosterIndicator - setNWBoosterIndicators(false)
+[ 04-01 09:57:57.730  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW
+[ 04-01 09:57:57.730  5389: 5389 D/StatusBar.NetworkController ]
+applyVZW : mDataTypeDisabledIconIdcom.android.systemui:drawable/stat_sys_data_connected_disabled_4g_lte
+[ 04-01 09:57:58.530 27762:27796 I/pmas     ]
+runEncoder loopCount=2112000 sentEmptyBufferCount=1650425 sentNonEmptyBufferCount=461572
+

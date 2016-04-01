@@ -1,0 +1,24 @@
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-2 search-bar">
+	<!--Sidebar content-->
+	Search: <input ng-model="query"><br><br>
+	Favorites:<br>
+	<ul class="phone-thumbs">
+	  <li ng-repeat="fav in all track by $index">
+	    <a href="#/food/{{fav.foodId}}">{{fav.name}}</a>
+	    <img src="images/del.png" width="16" height="16" ng-click="delFav(fav.foodId)"/>
+	  </li>
+	</ul>
+    </div>
+    <div class="col-md-10">
+      <!--Body content-->
+	<ul class="phones">
+	  <li ng-repeat="food in foods | filter:query "
+	      class="thumbnail">
+	    <a href="#/food/{{food.id}}">{{food.name}}</a>
+	  </li>
+	</ul>
+    </div>
+  </div>
+</div>

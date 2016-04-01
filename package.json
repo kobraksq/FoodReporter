@@ -1,0 +1,13 @@
+{
+  "name": "FoodReporter",
+  "version": "1.0.0",
+  "description": "Food reporter filling data from public web service.",
+  "main": "server.js",
+  "author": "Emmanuel Luna",
+  "dependencies": {
+    "angular": "*",
+    "express": "*",
+    "angular-route": "*",
+    "angular-resource": "*"
+  }
+}
